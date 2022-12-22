@@ -5,15 +5,6 @@ import java.io.*;
 import java.net.*;
 import java.awt.event.*;
 import java.awt.*;
-/*
- * Main.java
- *
- * Created on 6 f�vrier 2004, 13:59
- */
-/**
- *
- * @author  DDAVRINC
- */
 public class Serveur extends JFrame{
     // les sockets:
     private java.net.ServerSocket serveur;
